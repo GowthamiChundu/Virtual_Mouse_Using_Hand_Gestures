@@ -24,7 +24,7 @@ Python: (3.6 - 3.8.5)
 
 Anaconda Distribution: To download click [here](https://www.anaconda.com/download)
 
-Download and Extract the Project Folder Name Virtual_mouse_by_hand_gestures.
+Download and Extract the Project Folder Name Virtual_Mouse_Using_Hand_Gestures.
 
 Step 1:
 ##
@@ -37,7 +37,7 @@ Step 3:
     pip install -r requirements.txt
 Step 4:
 ##
-    python virtual_Mouse_by_hand_gestures.py
+    python Virtual_Mouse_Using_Hand_Gestures.py
 # Acknowledgemnts
 - The project utilizes [OpenCv](https://opencv.org/) for video processing.
 - Hand tracking and gesture recognition are powered by [Mediapipe](https://mediapipe.dev).
